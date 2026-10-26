@@ -1,0 +1,1 @@
+{"root":["./src/RedisManager.ts","./src/environment.d.ts","./src/index.ts","./src/routes/balances.ts","./src/routes/dbqueries.ts","./src/routes/depth.ts","./src/routes/kline.ts","./src/routes/order.ts","./src/routes/ticker.ts","./src/routes/trades.ts","./src/types/index.ts","./src/types/to.ts"],"version":"6.0.3"}
